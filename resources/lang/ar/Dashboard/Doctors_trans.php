@@ -1,0 +1,30 @@
+<?php
+
+return [
+
+  'Doctors'=>'الاطباء',
+  'Close' => 'اغلاق',
+  'Processes' => 'العمليات',
+  'Warning' => 'هل انت متاكد من عملية الحذف ؟?',
+  'ADD_Doctor' => 'اضافه طبيب',
+  'created_at' => 'تاريخ الاضافه',
+  'delete_doctor' => 'حذف طبيب',
+  'description' => 'الوصف',
+  'edit_doctor' => 'تعديل طبيب',
+  'Name_Doctor' => 'اسم الطبيب',
+  'submit' => 'تاكيد',
+  'Doctor_image' => 'صوره الطبيب',
+  'Doctor_email' => 'البريد الالكتروني للطبيب',
+  'Doctor_section' => 'قسم الطبيب',
+  'Doctor_phone' => 'تليفون الطبيب',
+  'Doctor_Appointments' => 'مواعبد الطبيب ',
+  'Doctor_Status' => 'حاله الطبيب ',
+  'Doctor_price' => 'سعر الطبيب ',
+  'Modify_data' => ' تعديل البيانات ',
+  'Change_password' => ' تغيير كلمه المرور  ',
+  'Change_status' => ' تغيير الحاله  ',
+  'Delete_data' => ' حذف البيانات',
+  'Password' => ' اضافه كلمه المرور  ',
+  'Doctor_Enabled' => ' دكتور نشط' ,
+  'Doctor_Not_Enabled' => ' دكتور غير نشط' ,
+];
